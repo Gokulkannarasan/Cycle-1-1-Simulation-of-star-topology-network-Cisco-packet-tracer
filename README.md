@@ -44,7 +44,7 @@ To simulate a network with topology using Cisco Packet Tracer and verify connect
 
 ## 🗺️ NETWORK DIAGRAM
 ---
-<img width="1024" height="326" alt="image" src="https://github.com/user-attachments/assets/b1678fb3-30c2-4351-9b61-ee7b524be458" />
+<img width="1920" height="1080" alt="Screenshot (366)" src="https://github.com/user-attachments/assets/0bb2357e-48a4-40ca-ab69-d029e1c809b2" />
 
 
 ## 🧾 BASIC NETWORKING COMMANDS
@@ -73,7 +73,7 @@ C:\> ipconfig /all
 
 ## OUTPUT
 ---
-<img width="1088" height="796" alt="image" src="https://github.com/user-attachments/assets/39cc071d-feae-4f5e-b8a6-f2b7a155daf0" />
+![IMG-20251121-WA0010](https://github.com/user-attachments/assets/ad7de711-ed92-4ce3-a900-655078d77667)
 
 ## RESULT
 Thus the computers in same network are able to communicate with each other and the communication between them were verified
